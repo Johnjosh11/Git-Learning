@@ -1,0 +1,23 @@
+Commands which we are going to dicuss in while learning Git with relatime senarios (Please reffere senarios page)
+Note : (order might change)
+
+git config
+git init
+git clone
+git add
+git commit
+git diff
+git reset
+git status
+git rm
+git log
+git show
+git tag
+git branch
+git checkout
+git merge
+git remote
+git push
+git pull
+git stash
+git rebase
