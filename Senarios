@@ -11,9 +11,11 @@ what if i have staged the file and added in the commit area but wanted to bring 
 
 I wanted other people also to contribute to my code as this is opensource code but privately to selected members (git create branches and share it with other users)
 
-[other peopole should clone your project to contribute so they should use (git clone url)]
-
 How to change branches (git checkout)
+
+[other peopole should clone your project to their local system to contribute. so they should use (git clone url)]
+
+I wanted to pull the latetest changes made in the central repo to my local repo (git pull)
 
 How do i change branch with out letting/effecting my current branch changes to other branch which am switching (git stash)
 Now i switch back to the original branch which i am merging and get back the previous modifications (git pop)
