@@ -52,5 +52,9 @@ yum deplist nfs-utils
 -> Update kernal
 	yum update kernel
         yum install kernel-{version}
+	
+-> UserSpace & KernalSpace
+
+https://developer.ibm.com/articles/l-linux-kernel/
 
 
