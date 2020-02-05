@@ -35,3 +35,8 @@ git push
 git pull
 git stash
 git rebase
+
+----------------------------------------------------------------------------
+git rev-list --all --count [To count the number of commits history]
+git log --oneline | wc -l 
+----------------------------------------------------------------------------
